@@ -1,2 +1,2 @@
-# My-pratical
-Here are practicals 
+#C++ Praticals 
+Here are my Cpp praticals 
